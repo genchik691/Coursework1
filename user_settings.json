@@ -1,7 +1,0 @@
-{
-  "user_currencies": ["USD", "EUR", "GBP", "CNY"],
-  "user_stocks": ["AAPL", "AMZN", "GOOGL", "MSFT", "TSLA", "META", "NVDA"],
-  "cashback_rate": 0.05,
-  "investment_limit": 50,
-  "report_period_days": 90
-}
